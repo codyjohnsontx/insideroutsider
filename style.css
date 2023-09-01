@@ -1,3 +1,16 @@
-p {
-    color: blue;
+h1.custom-h1 {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+h2.custom-h2 {
+    border-bottom: 3px dashed #333; /* A dashed bottom border */
+    margin-bottom: 15px; /* Some space below the h2 */
+    padding-bottom: 50px; /* Padding at the bottom to space the text away from the border */
+}
+
+h3.custom-h3 {
+    background-color: #f2f2f2; /* A light gray background */
+    padding: 15px;
+    border-radius: 5px; /* Optional: To add rounded corners */
 }
