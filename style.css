@@ -14,3 +14,18 @@ h3.custom-h3 {
     padding: 15px;
     border-radius: 5px; /* Optional: To add rounded corners */
 }
+
+.nav li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+  }
+  .nav li:last-child {
+    margin-right: 0;
+  }
+
+  .signature {
+    padding: 15px 0;
+    margin: 50px 0;
+    text-align: center;
+  }
