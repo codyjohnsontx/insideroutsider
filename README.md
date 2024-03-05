@@ -47,3 +47,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For inquiries or collaborations, please contact [your-email@example.com](mailto:your-email@example.com).
+
+## Screenshots
+
+![AMD Transactions Graph](AMD Transaction Graph.jpeg)
+![NVIDIA Transaction Graph](NVIDIA Transactions Graph.jpeg)
+![Texas Instrument Transaction Graph](Texas Instruments Transactions Graph.jpeg)
