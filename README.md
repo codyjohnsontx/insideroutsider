@@ -47,8 +47,12 @@ Contributions to this project are welcome! Whether it's through code contributio
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+## Author
+
+Created by [Cody Johnson].
 
 ## Contact
 
-For inquiries or collaborations, please contact [your-email@example.com](mailto:your-email@example.com).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cody-johnson-92460b124/).
