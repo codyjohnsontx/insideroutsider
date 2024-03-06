@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Created by [Cody Johnson].
+Created by Cody Johnson.
 
 ## Contact
 
